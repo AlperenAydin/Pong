@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_PP_11x7bits.xst" -ofn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_PP_11x7bits.syr" 
+xst -intstyle ise -ifn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_PP_11x7bits.xst" -ofn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_PP_11x7bits.syr" 

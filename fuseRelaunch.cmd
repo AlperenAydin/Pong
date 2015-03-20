@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_PP_11x7bits_tb_isim_beh.exe" -prj "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_PP_11x7bits_tb_beh.prj" "work.registre_PP_11x7bits_tb" 

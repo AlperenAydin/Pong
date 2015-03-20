@@ -1,0 +1,8 @@
+EN falling_edge_detector NULL /fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.vhd sub00/vhpl02 1426847562
+AR registre_pp_11x7bits behavioral /fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_PP_11x7bits.vhd sub00/vhpl05 1426848779
+AR registre_sp_11bits behavioral /fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_SP_11bits.vhd sub00/vhpl01 1426848366
+EN registre_pp_11x7bits NULL /fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_PP_11x7bits.vhd sub00/vhpl04 1426848778
+AR falling_edge_detector behavioral /fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.vhd sub00/vhpl03 1426847563
+AR compteur_11bits behavioral /fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/compteur_11bits.vhd sub00/vhpl07 1426849757
+EN registre_sp_11bits NULL /fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/registre_SP_11bits.vhd sub00/vhpl00 1426848365
+EN compteur_11bits NULL /fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/compteur_11bits.vhd sub00/vhpl06 1426849756

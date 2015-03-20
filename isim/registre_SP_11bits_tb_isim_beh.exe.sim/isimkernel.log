@@ -1,0 +1,28 @@
+Command line:
+   registre_SP_11bits_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59960
+
+Fri Mar 20 10:44:01 2015
+
+
+ Elaboration Time: 0.06 sec
+
+ Current Memory Usage: 132.043 Meg
+
+ Total Signals          : 9
+ Total Nets             : 25
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 6
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 386
+
+ Total Simulation Time: 0.08 sec
+
+ Current Memory Usage: 141.48 Meg
+
+Fri Mar 20 10:44:19 2015
+

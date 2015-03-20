@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.xst" -ofn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.syr" 
+xst -intstyle ise -ifn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.xst" -ofn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.syr" 
+xst -intstyle ise -ifn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.xst" -ofn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.syr" 
+xst -intstyle ise -ifn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.xst" -ofn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.syr" 
+xst -intstyle ise -ifn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.xst" -ofn "/fs02/share/users/alperen.aydin/home/TPElec/ELN1/Pong/falling_edge_detector.syr" 

@@ -1,0 +1,2 @@
+vhdl isim_temp "falling_edge_detector.vhd"
+vhdl isim_temp "falling_edge_detector_tb.vhd"

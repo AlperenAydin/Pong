@@ -1,0 +1,2 @@
+vhdl isim_temp "registre_PP_11x7bits.vhd"
+vhdl isim_temp "registre_PP_11x7bits_tb.vhd"
